@@ -1,3 +1,10 @@
+---
+layout: default
+title: "HIST364: Environmental History"
+course_description: "An introductory survey on the relationship between nature and human history. Themes include the environmental effects of civilization, colonization, urbanization, and consumerism."
+next: ../Unit01
+previous: ../../../
+---
 Course Syllabus for "HIST364: Environmental History"
 ----------------------------------------------------
 

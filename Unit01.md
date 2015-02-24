@@ -1,3 +1,10 @@
+---
+layout: default
+title: "HIST364: Environmental History"
+course_description: "An introductory survey on the relationship between nature and human history. Themes include the environmental effects of civilization, colonization, urbanization, and consumerism."
+next: ../Unit02
+previous: ../Intro
+---
 **Unit 1: Human Beings and Their Environment** <span id="1"></span> 
 *One of the defining characteristics of humanity is the ability to make
 and use tools.  From the earliest uses to provide shelter, safety, and

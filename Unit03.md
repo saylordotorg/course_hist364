@@ -1,3 +1,10 @@
+---
+layout: default
+title: "HIST364: Environmental History"
+course_description: "An introductory survey on the relationship between nature and human history. Themes include the environmental effects of civilization, colonization, urbanization, and consumerism."
+next: ../Unit04
+previous: ../Unit02
+---
 **Unit 3: The Middle Ages** <span id="3"></span> 
 *Following the fall of the Roman Empire, c. 462 CE, European
 civilization felt a power vacuum.  The Celtic tribes of Europe had

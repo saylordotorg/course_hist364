@@ -1,3 +1,10 @@
+---
+layout: default
+title: "HIST364: Environmental History"
+course_description: "An introductory survey on the relationship between nature and human history. Themes include the environmental effects of civilization, colonization, urbanization, and consumerism."
+next: ../Unit03
+previous: ../Unit01
+---
 **Unit 2: Ancient Civilizations and their Environments** <span
 id="2"></span> 
 *About 10,000 years ago, former hunting and gathering human populations

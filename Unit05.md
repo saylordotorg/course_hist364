@@ -1,3 +1,10 @@
+---
+layout: default
+title: "HIST364: Environmental History"
+course_description: "An introductory survey on the relationship between nature and human history. Themes include the environmental effects of civilization, colonization, urbanization, and consumerism."
+next: ../Unit06
+previous: ../Unit04
+---
 **Unit 5: Industrialization** <span id="5"></span> 
 *World industrialization began in England in the eighteenth century and
 spread to other countries and regions in Europe and the America.  Marked

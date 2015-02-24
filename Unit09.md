@@ -1,3 +1,10 @@
+---
+layout: default
+title: "HIST364: Environmental History"
+course_description: "An introductory survey on the relationship between nature and human history. Themes include the environmental effects of civilization, colonization, urbanization, and consumerism."
+next: ../../../
+previous: ../Unit08
+---
 **Unit 9: Final Exam** <span id="9"></span> 
 -   **Final Exam: The Saylor Foundation’s “HIST364 Final Exam”**
     Link: The Saylor Foundation’s “[HIST364 Final

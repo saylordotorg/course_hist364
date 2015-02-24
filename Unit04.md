@@ -1,3 +1,10 @@
+---
+layout: default
+title: "HIST364: Environmental History"
+course_description: "An introductory survey on the relationship between nature and human history. Themes include the environmental effects of civilization, colonization, urbanization, and consumerism."
+next: ../Unit05
+previous: ../Unit03
+---
 **Unit 4: The Columbian Exchange** <span id="4"></span> 
 *European exploration of the Americas began in the 10th century CE with
 the voyages of Viking Leif Eriksson.  Although the settlement of what is

@@ -1,3 +1,10 @@
+---
+layout: default
+title: "HIST364: Environmental History"
+course_description: "An introductory survey on the relationship between nature and human history. Themes include the environmental effects of civilization, colonization, urbanization, and consumerism."
+next: ../Unit09
+previous: ../Unit07
+---
 **Unit 8: Environmentalism: New Perspectives on Mankind’s Relationship
 with the Natural World** <span id="8"></span> 
 *Scientific awareness coupled with intense environmental degradation

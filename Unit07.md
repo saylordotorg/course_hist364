@@ -1,3 +1,10 @@
+---
+layout: default
+title: "HIST364: Environmental History"
+course_description: "An introductory survey on the relationship between nature and human history. Themes include the environmental effects of civilization, colonization, urbanization, and consumerism."
+next: ../Unit08
+previous: ../Unit06
+---
 **Unit 7: Threatened Environments – Threatened Societies** <span
 id="7"></span> 
 *At the end of the twentieth century, over one hundred years of

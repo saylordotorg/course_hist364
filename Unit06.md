@@ -1,3 +1,10 @@
+---
+layout: default
+title: "HIST364: Environmental History"
+course_description: "An introductory survey on the relationship between nature and human history. Themes include the environmental effects of civilization, colonization, urbanization, and consumerism."
+next: ../Unit07
+previous: ../Unit05
+---
 **Unit 6: Reshaping the Modern Environment** <span id="6"></span> 
 *Industrialization led to the institutionalization of market-powered
 economic capitalism.  Economies were no longer designed to be
