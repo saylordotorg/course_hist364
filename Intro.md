@@ -138,4 +138,14 @@ complete sub-subunits 1.1.1 and 1.1.2 (a total of 4.25 hours) on Monday;
 sub-subunits 1.1.3 through 1.1.5 and subunit 1.2 (a total of 5 hours) on
 Tuesday; etc.  
   
+**Table of Contents:** You can find the course's units at the links below.
 
+- [Unit 1](https://legacy.saylor.org/hist364/Unit01/)
+- [Unit 2](https://legacy.saylor.org/hist364/Unit02/)
+- [Unit 3](https://legacy.saylor.org/hist364/Unit03/)
+- [Unit 4](https://legacy.saylor.org/hist364/Unit04/)
+- [Unit 5](https://legacy.saylor.org/hist364/Unit05/)
+- [Unit 6](https://legacy.saylor.org/hist364/Unit06/)
+- [Unit 7](https://legacy.saylor.org/hist364/Unit07/)
+- [Unit 8](https://legacy.saylor.org/hist364/Unit08/)
+- [Unit 9](https://legacy.saylor.org/hist364/Unit09/)
