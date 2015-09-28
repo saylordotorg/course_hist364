@@ -152,3 +152,4 @@ Tuesday; etc.
 - [Unit 7](https://legacy.saylor.org/hist364/Unit07/)
 - [Unit 8](https://legacy.saylor.org/hist364/Unit08/)
 - [Unit 9](https://legacy.saylor.org/hist364/Unit09/)
+- [Final Exam](http://saylordotorg.github.io/LegacyExams/HIST/HIST364/HIST364-FinalExam.html), [Answers](http://saylordotorg.github.io/LegacyExams/HIST/HIST364/HIST364-FinalExam-Answers.html)
