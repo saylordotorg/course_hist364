@@ -142,9 +142,9 @@ Upon successful completion of this unit, the student will be able to:
     Quiz”**
     Link: The Saylor Foundation’s [“Reading Quiz for Donald Worster’s
     ‘Attitudes toward
-    Water’”](http://www.saylor.org/site/wp-content/uploads/2012/09/HIST364-StudyQuestionsWorster-FINAL.pdf) (PDF)
+    Water’”](https://resources.saylor.org/archived/wp-content/uploads/2012/09/HIST364-StudyQuestionsWorster-FINAL.pdf) (PDF)
     and [“Guided Response to Reading
-    Quiz”](http://www.saylor.org/site/wp-content/uploads/2012/09/HIST364-StudyQuestionsWorster-GTR-FINAL.pdf) (PDF)  
+    Quiz”](https://resources.saylor.org/archived/wp-content/uploads/2012/09/HIST364-StudyQuestionsWorster-GTR-FINAL.pdf) (PDF)  
         
      Instructions: Please click on the link above to download the quiz
     for sub-subunit 2.1.3.1, and answer the questions as explained in
