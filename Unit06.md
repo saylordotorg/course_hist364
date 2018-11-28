@@ -118,7 +118,7 @@ Upon successful completion of this unit, the student will be able to:
     Adams’ The Education of Henry Adams: ‘The Virgin and the Dynamo’”**
     Link: The Saylor Foundation’s [“Guide to Responding to Henry Adams’
     *The Education of Henry Adams*’: The Virgin and the
-    Dynamo’”](https://resources.saylor.org/archived/wp-content/uploads/2011/07/HIST364-QuizWorsterAgrarianiam-GTR-FINAL.pdf)
+    Dynamo’”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/07/HIST364-QuizWorsterAgrarianiam-GTR-FINAL.pdf)
     (PDF)  
       
      Instructions: Please click on the link above to download the guide
