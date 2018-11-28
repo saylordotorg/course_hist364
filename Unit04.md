@@ -126,9 +126,9 @@ Upon successful completion of this unit, the student will be able to:
     Reading Quiz”**
     Link: The Saylor Foundation’s [“Reading Quiz for Resource Exchange
     in the Columbian
-    Exchange”](https://resources.saylor.org/archived/wp-content/uploads/2011/07/HIST364-StudyQuestionsColumbianExchange-FINAL.pdf)
+    Exchange”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/07/HIST364-StudyQuestionsColumbianExchange-FINAL.pdf)
     (PDF) and [“Guide to Responding to the Reading
-    Quiz”](https://resources.saylor.org/archived/wp-content/uploads/2011/07/HIST364-StudyQuestionsColumbianExchange-GTR-FINAL.pdf)
+    Quiz”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/07/HIST364-StudyQuestionsColumbianExchange-GTR-FINAL.pdf)
     (PDF)  
       
      Instructions: Please click on the first link above to download the
@@ -342,7 +342,7 @@ World** <span id="4.1.5"></span> 
 **4.2.2 Disease Transmission** <span id="4.2.2"></span> 
 -   **Reading: The Saylor Foundation’s “The Atlantic World, 1492-1600”**
     Link: The Saylor Foundation’s [“The Atlantic World,
-    1492-1600”](https://resources.saylor.org/archived/wp-content/uploads/2012/04/HIST-Atlantic-World-1492-1600-OC-FINAL.pdf) (PDF)  
+    1492-1600”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/04/HIST-Atlantic-World-1492-1600-OC-FINAL.pdf) (PDF)  
         
      Instructions: Read the sections titled “Disease” and “Ecological
     Impact” on pages 28-30. As you read, consider the following
@@ -615,9 +615,9 @@ id="4.3.1"></span> 
     “Guide to Responding to Study Questions”**
     Link: The Saylor Foundation’s [“Study Questions for Shane White and
     Graham White’s *The Sounds of Slavery*: Chapter
-    1”](https://resources.saylor.org/archived/wp-content/uploads/2011/07/HIST364_4.3.3-Reading_GuideSoundSlavery-FINAL.pdf)
+    1”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/07/HIST364_4.3.3-Reading_GuideSoundSlavery-FINAL.pdf)
     (PDF) and [“Guide to Responding to Study
-    Questions”](https://resources.saylor.org/archived/wp-content/uploads/2011/07/HIST364_4.3.3-ReadingGuideSoundSlavery-GTR_FINAL.pdf)
+    Questions”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/07/HIST364_4.3.3-ReadingGuideSoundSlavery-GTR_FINAL.pdf)
     (PDF)  
       
      Instructions: Please click on the first link above to download the

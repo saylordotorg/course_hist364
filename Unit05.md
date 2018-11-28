@@ -377,7 +377,7 @@ id="5.3"></span> 
     ‘Agrarianism and
     Nature’”](http://www.h-net.org/~environ/roundtables/env-roundtable-1-1.pdf)
     (PDF) and [“Guide to Responding to Reading
-    Quiz”](https://resources.saylor.org/archived/wp-content/uploads/2011/07/HIST364-QuizWorsterAgrarianiam-GTR-FINAL.pdf)
+    Quiz”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/07/HIST364-QuizWorsterAgrarianiam-GTR-FINAL.pdf)
     (PDF)  
       
      Instructions: Please download the reading quiz for Worster’s
